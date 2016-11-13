@@ -1,4 +1,0 @@
-this is from macbookpro
-adas
-print xs
-for loop
